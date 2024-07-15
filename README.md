@@ -1,2 +1,2 @@
-# ExploreHub
-college project
+# ExploreHub (Tour and Travel Website)
+College project
